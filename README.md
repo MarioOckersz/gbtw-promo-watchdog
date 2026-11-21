@@ -29,7 +29,7 @@
 
 ## 🎯 Why This Exists
 
-*Gunship Battle: Total Warfare* surprise coupons often expire within **48 to 72 hours**. Built specifically for resource-constrained VPS environments (such as **Oracle Cloud Always Free 1 GB** instances), this tool runs as a `systemd` oneshot timer—consuming **~15 MB RAM** for ~1.5 seconds per scan and **0 MB** while idle.
+*Gunship Battle: Total Warfare* surprise coupons often expire within **48 to 72 hours**. Built specifically for resource-constrained VPS environments, this tool runs as a `systemd` oneshot timer—consuming **~15 MB RAM** for ~1.5 seconds per scan and **0 MB** while idle.
 
 ## ✨ Key Capabilities
 
