@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="assets/logo.svg" alt="GBTW Promo Watchdog Emblem" width="150" />
+  <img src="asset/gbtw.jpeg" alt="GBTW Promo Watchdog Emblem" width="150" />
 
   <h1>🛰️ GBTW Promo Watchdog</h1>
 
